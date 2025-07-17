@@ -2,6 +2,9 @@
 
 This project is a serverless application that automatically analyzes user-submitted selfies/images using Amazon Rekognition. Results are saved to DynamoDB for further use.
 
+<img width="1024" height="1024" alt="ChatGPT Image Jul 16, 2025, 12_43_33 PM" src="https://github.com/user-attachments/assets/f68327c9-6d81-42bc-852e-04d863cfad50" />
+
+
 ---
 
 ## 📸 How It Works
